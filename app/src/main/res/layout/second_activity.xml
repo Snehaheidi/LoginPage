@@ -12,5 +12,5 @@
         android:layout_marginTop="250dp"
         android:textSize="25dp"
         android:textColor="@color/cardview_dark_background"
-        android:text="Welcome to MyPage" />
+        android:text="Welcome to My page" />
 </LinearLayout>
