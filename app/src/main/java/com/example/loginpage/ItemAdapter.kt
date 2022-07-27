@@ -14,7 +14,7 @@ class ItemAdapter(private var tourList:ArrayList<Tour>) : RecyclerView.Adapter<I
 {
     var onItemClick :((Tour)->Unit)?=null
 
-   //ViewHolder Class
+   // ViewHolder Class
    class TourViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
        val cardView : CardView = itemView.findViewById(R.id.cardView)
        val imageView : ImageView = itemView.findViewById(R.id.imageview)

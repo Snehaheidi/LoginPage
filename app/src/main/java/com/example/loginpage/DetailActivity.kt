@@ -29,7 +29,7 @@ class DetailActivity : AppCompatActivity() {
     val back = findViewById<ImageView>(R.id.back_arrow1)
     back.setOnClickListener {
         Toast.makeText(this, "back ..", Toast.LENGTH_SHORT).show()
-        //setContentView(R.layout.activity_main)
+        //->setContentView(R.layout.activity_main)
         val intent = Intent(this, SecondActivity::class.java)
         startActivity(intent)
     }

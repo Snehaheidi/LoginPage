@@ -43,7 +43,7 @@ class SecondActivity : AppCompatActivity()
 //        tool_bar = findViewById(R.id.search)
 //        setSupportActionBar(tool_bar)
 //    }
-//
+////
 //    private fun setSupportActionBar(toolBar: Toolbar?) {
 //
 //    }

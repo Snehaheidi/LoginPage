@@ -35,7 +35,7 @@
             android:layout_marginBottom="32dp"
             android:text="@string/jatayu_earth_center"
             android:textColor="@color/purple_500"
-            android:textSize="20sp"
+            android:textSize="22sp"
             android:textStyle="italic"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"

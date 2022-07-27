@@ -19,7 +19,7 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"><!-- this is called our 1st activity-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

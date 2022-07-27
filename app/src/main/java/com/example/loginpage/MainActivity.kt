@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this,"Successfully Login..",Toast.LENGTH_SHORT).show()
                 userName.text.clear()
                 password.text.clear()
-                // setContentView(R.layout.second_activity)
+                //. setContentView(R.layout.second_activity)
                 val intent = Intent(this,SecondActivity::class.java).apply {
                     putExtra(EXTRA_MESSAGE,uName)
                 }
