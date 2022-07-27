@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.196" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.196" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.196" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/drawable/search_view.xml" value="0.204" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/activity_detail.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/second_activity.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/each_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/forget_activity.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/mytoolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/second_activity.xml" value="0.25" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/signin_activity.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/layout/toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/menu/tool_bar.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidProgram/Loginpage/app/src/main/res/menu/toolbar.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>
